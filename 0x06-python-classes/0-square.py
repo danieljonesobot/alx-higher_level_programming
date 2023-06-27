@@ -1,4 +1,5 @@
 #!/usr/bin/python3
 
 class Square:
-    pass  # An empty block
+    """An empty block Square class body"""
+    pass
